@@ -8,7 +8,7 @@ const DISCIPLINE = "Программирование на PHP";
 const PASSING_SCORE = 50;
 
 // Данные студента
-$studentName = "Apetayeva Talshyn";
+$studentName = "Бежко Владсилав";
 $group = "ИС-24-22";
 $course = 3;
 $variantNumber = 1;
